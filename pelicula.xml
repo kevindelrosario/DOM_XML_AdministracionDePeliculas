@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cine>
+	<peliculas>
+		<pelicula>
+			<nombre>El hombre araña</nombre>
+			<autor>Jose Miguel</autor>
+			<estreno>10-01-2022</estreno>
+			<id>1</id>
+			<genero>comedia</genero>
+
+		</pelicula>
+		<pelicula>
+			<nombre>La sirenita</nombre>
+			<autor>Kevin Calvo</autor>
+			<estreno>01-04-2022</estreno>
+			<id>2</id>
+			<genero>romance</genero>
+		</pelicula>
+		<pelicula>
+			<nombre>Batman</nombre>
+			<autor>Carlos Juaquin</autor>
+			<estreno>23-12-2022</estreno>
+			<id>3</id>
+			<genero>drama</genero>
+		</pelicula>
+	</peliculas>
+
+</cine>
